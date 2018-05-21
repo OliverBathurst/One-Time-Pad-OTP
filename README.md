@@ -9,3 +9,5 @@ Within this project is a sample application that uses the included library. This
 * 'Open File' - user specifies a file for operation
 * 'Generate New Key' - generates a one-time-pad key the size of the selected file, key resides in memory
 * 'Open Key File' - user specifies a saved key file to be used as the key in an operation
+* 'Write Key To File' - writes the key in memory to an output file specified by the user
+* 'Write New Key To File' - writes a key the size of the selected file to an output file specified by the user, as the key never resides entirely in memory, this is useful for larger files (that have large keys that won't fit in memory)
