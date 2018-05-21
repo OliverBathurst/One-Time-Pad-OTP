@@ -6,3 +6,6 @@ In this technique, a plaintext is paired with a random secret key (also referred
 # One-Time-Pad Sample Application
 Within this project is a sample application that uses the included library. This tool will assist a user in using the Vernam cipher (One-Time-Pad variant) to encrypt and decrypt files.
 ![alt text](https://github.com/OliverBathurst/One-Time-Pad-OTP/blob/master/screens/screen.PNG)
+* 'Open File' - user specifies a file for operation
+* 'Generate New Key' - generates a one-time-pad key the size of the selected file, key resides in memory
+* 'Open Key File' - user specifies a saved key file to be used as the key in an operation
