@@ -9,8 +9,10 @@ Within this project is a sample application that uses the included library. This
 ### Features ###
 * 'Open File' - user specifies a file for operation
 * 'Generate New Key' - generates a one-time-pad key the size of the selected file, key resides in memory
-* 'Open Key File' - user specifies a saved key file to be used as the key in an operation
+* 'Open Key File' - user specifies a saved key file to be used as the key in an operation, this option loads the key from the keyfile into memory (unsuitable for large keys, use 'Stream Key From File' instead)
 * 'Write Key To File' - writes the key in memory to an output file specified by the user
 * 'Write New Key To File' - writes a key the size of the selected file to an output file specified by the user, as the key never resides entirely in memory, this is useful for larger files (that have large keys that won't fit in memory)
 * 'Encrypt/Decrypt' - takes the selected file and encrypts/decrypts using the key from memory/keyfile, outputs resulting encrypted/decrypted file to the specified output path
 * 'Output Path' - sets output path for the encrypted/decrypted file
+* 'Use Key From Memory' - the application will perform the encryption/decryption process using the key currently in memory
+* 'Stream Key From File' - the application will perform the encryption/decryption process using the keyfile specified by the user, the keyfile is streamed (and the output file created) on a byte-by-byte basis, this should be used when memory is limited and the key is too large to be loaded into memory
