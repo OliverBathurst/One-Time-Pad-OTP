@@ -13,3 +13,4 @@ Within this project is a sample application that uses the included library. This
 * 'Write Key To File' - writes the key in memory to an output file specified by the user
 * 'Write New Key To File' - writes a key the size of the selected file to an output file specified by the user, as the key never resides entirely in memory, this is useful for larger files (that have large keys that won't fit in memory)
 * 'Encrypt/Decrypt' - takes the selected file and encrypts/decrypts using the key from memory/keyfile, outputs resulting encrypted/decrypted file to the specified output path
+* 'Output Path' - sets output path for the encrypted/decrypted file
