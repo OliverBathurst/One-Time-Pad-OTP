@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="One Time Pad:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="One Time Pad.jar">
+      <element id="module-output" name="One Time Pad" />
+      <element id="library" level="project" name="One Time Pad Library v1.0" />
+    </root>
+  </artifact>
+</component>
