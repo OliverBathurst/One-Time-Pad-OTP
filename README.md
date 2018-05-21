@@ -15,4 +15,4 @@ Within this project is a sample application that uses the included library. This
 * 'Encrypt/Decrypt' - takes the selected file and encrypts/decrypts using the key from memory/keyfile, outputs resulting encrypted/decrypted file to the specified output path
 * 'Output Path' - sets output path for the encrypted/decrypted file
 * 'Use Key From Memory' - the application will perform the encryption/decryption process using the key currently in memory
-* 'Stream Key From File' - the application will perform the encryption/decryption process using the keyfile specified by the user, the keyfile is streamed (and the output file is created) on a byte-by-byte basis, this should be used when memory is limited and the key is too large to be loaded into memory
+* 'Stream Key From File' - the application will perform the encryption/decryption process using the keyfile specified by the user, the keyfile is streamed (and the output file is created) on a byte-by-byte basis, this should be used when memory is limited and the key is too large to be loaded entirely into memory
