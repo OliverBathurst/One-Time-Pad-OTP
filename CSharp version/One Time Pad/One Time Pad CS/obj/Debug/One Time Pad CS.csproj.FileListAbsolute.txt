@@ -1,0 +1,13 @@
+C:\Users\Oliver\source\repos\One Time Pad\One Time Pad CS\obj\Debug\One Time Pad CS.csprojAssemblyReference.cache
+C:\Users\Oliver\source\repos\One Time Pad\One Time Pad CS\obj\Debug\One_Time_Pad_CS.Properties.Resources.resources
+C:\Users\Oliver\source\repos\One Time Pad\One Time Pad CS\obj\Debug\One Time Pad CS.csproj.GenerateResource.cache
+C:\Users\Oliver\source\repos\One Time Pad\One Time Pad CS\obj\Debug\One Time Pad CS.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\Desktop\One Time Pad\One Time Pad CS\obj\Debug\One_Time_Pad_CS.Properties.Resources.resources
+C:\Users\Oliver\Desktop\One Time Pad\One Time Pad CS\obj\Debug\One Time Pad CS.csproj.GenerateResource.cache
+C:\Users\Oliver\Desktop\One Time Pad\One Time Pad CS\obj\Debug\One Time Pad CS.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\Desktop\One Time Pad\One Time Pad CS\bin\Debug\One Time Pad CS.exe.config
+C:\Users\Oliver\Desktop\One Time Pad\One Time Pad CS\bin\Debug\One Time Pad CS.exe
+C:\Users\Oliver\Desktop\One Time Pad\One Time Pad CS\bin\Debug\One Time Pad CS.pdb
+C:\Users\Oliver\Desktop\One Time Pad\One Time Pad CS\obj\Debug\One_Time_Pad_CS.otp.resources
+C:\Users\Oliver\Desktop\One Time Pad\One Time Pad CS\obj\Debug\One Time Pad CS.exe
+C:\Users\Oliver\Desktop\One Time Pad\One Time Pad CS\obj\Debug\One Time Pad CS.pdb
