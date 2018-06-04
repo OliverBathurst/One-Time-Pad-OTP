@@ -17,3 +17,7 @@ Within this project is a sample application that uses the included library. This
 * 'Output Path' - sets output path for the encrypted/decrypted file
 * 'Use Key From Memory' - the application will perform the encryption/decryption process using the key currently in memory
 * 'Stream Key From File' - the application will perform the encryption/decryption process using the keyfile specified by the user, the keyfile and input file are streamed (and the output file is created) on a byte-by-byte basis, this should be used when memory is limited and the key is too large to be loaded entirely into memory
+## C# Version Additional Features ##
+* 'Use Key From File' - see 'Stream Key From File'
+* 'Overwrite Existing File' - the application will perform the encryption/decryption on the file selected, without creating a separate encrypted version of the selected file
+* 'Create Duplicate File' - the application will perform the encryption/decryption by taking the selected file and producing an encrypted/decrypted copy
