@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/pjxh5g91jpbh7t84?svg=true)](https://ci.appveyor.com/project/tygerbytes/resourcefitness) |
+[![Build status](https://img.shields.io/shippable/5444c5ecb904a4b21567b0ff.svg)](https://ci.appveyor.com/project/tygerbytes/resourcefitness) |
 # One-Time-Pad-OTP
 A small One-Time-Pad (Vernam Cipher) library and sample application.  
 In cryptography, the one-time pad (OTP) is an encryption technique that cannot be cracked, but requires the use of a one-time pre-shared key the same size as, or longer than, the message being sent.
