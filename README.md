@@ -1,5 +1,5 @@
-[![Build status](https://img.shields.io/shippable/5444c5ecb904a4b21567b0ff.svg)]
-[![License](https://img.shields.io/npm/l/express.svg)]
+[![Build status](https://img.shields.io/shippable/5444c5ecb904a4b21567b0ff.svg)]()
+[![License](https://img.shields.io/npm/l/express.svg)]()
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 # One-Time-Pad-OTP
 A small One-Time-Pad (Vernam Cipher) library and sample application.  
