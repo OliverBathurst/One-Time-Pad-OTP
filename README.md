@@ -1,6 +1,6 @@
 [![Build status](https://img.shields.io/shippable/5444c5ecb904a4b21567b0ff.svg)]()
-[![License](https://img.shields.io/npm/l/express.svg)]()
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![License](https://img.shields.io/npm/l/express.svg)](https://github.com/OliverBathurst/One-Time-Pad-OTP/blob/master/LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/OliverBathurst/One-Time-Pad-OTP/commits/master)
 # One-Time-Pad-OTP
 A small One-Time-Pad (Vernam Cipher) library and sample application.  
 In cryptography, the one-time pad (OTP) is an encryption technique that cannot be cracked, but requires the use of a one-time pre-shared key the same size as, or longer than, the message being sent.
